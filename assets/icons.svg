@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs/><symbol id="icon-atomic-rings--nucleus" viewBox="0 0 37.91 33.5" aria-labelledby="title-id desc-id">
+  <title id="title-id">icon-atomic-rings--nucleus</title>
+  <desc id="desc-id">Atomic Rings</desc>
+  <g id="atomic-rings">
+    <circle id="nucleus" fill="currentcolor" stroke="none" cx="18.96" cy="16.75" r="1.67"/>
+    <g id="rings">
+      <ellipse id="ring_ring--tilt-left" data-name="ring ring--tilt-left" cx="18.95" cy="16.75" rx="5.74" ry="18.38" transform="translate(-5.84 11.72) rotate(-30)" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+      <ellipse id="ring_ring--horizontal" data-name="ring ring--horizontal" cx="18.95" cy="16.75" rx="18.38" ry="5.74" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+      <ellipse id="ring_ring--tilt-right" data-name="ring ring--tilt-right" cx="18.95" cy="16.75" rx="18.38" ry="5.74" transform="translate(-5.03 24.79) rotate(-60)" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+    </g>
+  </g>
+</symbol><symbol id="icon-atomic-rings" viewBox="0 0 37.91 33.5" aria-labelledby="title-id desc-id">
+  <title id="title-id">icon-atomic-rings--nucleus</title>
+  <desc id="desc-id">Atomic Rings</desc>
+  <g id="atomic-rings">
+    <g id="rings">
+      <ellipse id="ring_ring--tilt-left" data-name="ring ring--tilt-left" cx="18.95" cy="16.75" rx="5.74" ry="18.38" transform="translate(-5.84 11.72) rotate(-30)" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+      <ellipse id="ring_ring--horizontal" data-name="ring ring--horizontal" cx="18.95" cy="16.75" rx="18.38" ry="5.74" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+      <ellipse id="ring_ring--tilt-right" data-name="ring ring--tilt-right" cx="18.95" cy="16.75" rx="18.38" ry="5.74" transform="translate(-5.03 24.79) rotate(-60)" fill="none" stroke="currentcolor" stroke-miterlimit="10" stroke-width="1.15"/>
+    </g>
+  </g>
+</symbol><symbol id="icon-facebook-logo-f" viewBox="0 0 32 32">
+  <title>icon-facebook-logo-f</title>
+  <g id="facebook-logo-f">
+    <path id="icon" d="M30.23,0H1.77A1.77,1.77,0,0,0,0,1.77V30.23A1.77,1.77,0,0,0,1.77,32H17.09V19.61H12.92V14.78h4.17V11.22c0-4.13,2.52-6.38,6.21-6.38A34.22,34.22,0,0,1,27,5V9.34H24.47c-2,0-2.39,1-2.39,2.35v3.08h4.78l-.62,4.83H22.08V32h8.15A1.77,1.77,0,0,0,32,30.23V1.77A1.77,1.77,0,0,0,30.23,0Z"/>
+  </g>
+</symbol><symbol id="icon-github-logo-mark" viewBox="0 0 32 30.19">
+  <title>icon-github-logo-mark</title>
+  <g id="github-logo-mark">
+    <g id="logo">
+      <path d="M16,0A15.74,15.74,0,0,0,0,15.48,15.54,15.54,0,0,0,10.94,30.16c.8.14,1.09-.34,1.09-.74s0-1.59,0-2.88c-4.45.94-5.39-1.83-5.39-1.83a4.14,4.14,0,0,0-1.78-2.26c-1.45-1,.11-.94.11-.94A3.35,3.35,0,0,1,7.41,23.1a3.47,3.47,0,0,0,4.66,1.29,3.26,3.26,0,0,1,1-2.07c-3.55-.39-7.29-1.72-7.29-7.65a5.88,5.88,0,0,1,1.65-4.15,5.39,5.39,0,0,1,.15-4.1S8.94,6,12,8a15.67,15.67,0,0,1,8,0c3.05-2,4.4-1.59,4.4-1.59a5.39,5.39,0,0,1,.16,4.1,5.87,5.87,0,0,1,1.65,4.15c0,5.94-3.74,7.25-7.31,7.64A3.64,3.64,0,0,1,20,25.17c0,2.07,0,3.74,0,4.25s.29.89,1.1.74A15.53,15.53,0,0,0,32,15.48,15.74,15.74,0,0,0,16,0Z" fill-rule="evenodd"/>
+      <path d="M6.06,22.22c0,.08-.16.1-.27,0s-.18-.16-.14-.23.16-.1.28,0,.18.16.14.23Zm-.2-.14"/>
+      <path d="M6.71,22.92a.25.25,0,0,1-.33-.07c-.1-.11-.12-.25,0-.32a.25.25,0,0,1,.33.07c.1.11.13.25,0,.32Zm-.15-.16"/>
+      <path d="M7.34,23.81c-.1.07-.26,0-.36-.13s-.1-.3,0-.37.26,0,.36.13.1.31,0,.37Zm0,0"/>
+      <path d="M8.2,24.67a.31.31,0,0,1-.41-.06c-.14-.12-.18-.3-.09-.4a.31.31,0,0,1,.41.06c.14.12.18.3.09.4Zm0,0"/>
+      <path d="M9.4,25.17c0,.12-.22.18-.4.12s-.3-.19-.26-.32.22-.18.4-.12.3.19.26.32Zm0,0"/>
+      <path d="M10.71,25.26c0,.13-.15.23-.34.24s-.35-.1-.35-.22.15-.23.34-.24.35.1.35.23Zm0,0"/>
+      <path d="M11.92,25.06c0,.12-.11.25-.3.29s-.36,0-.38-.17.11-.26.3-.29.36,0,.38.17Zm0,0"/>
+    </g>
+  </g>
+</symbol><symbol id="icon-twitter-logo" viewBox="0 0 32 26">
+  <title>icon-twitter-logo</title>
+  <g id="twitter-logo">
+    <path id="logo" d="M10.06,26C22.14,26,28.74,16,28.74,7.32c0-.28,0-.57,0-.85A13.36,13.36,0,0,0,32,3.07a13.1,13.1,0,0,1-3.77,1A6.59,6.59,0,0,0,31.12.48a13.16,13.16,0,0,1-4.17,1.59,6.57,6.57,0,0,0-11.19,6A18.64,18.64,0,0,1,2.23,1.2a6.57,6.57,0,0,0,2,8.76,6.52,6.52,0,0,1-3-.82v.08a6.57,6.57,0,0,0,5.27,6.44,6.55,6.55,0,0,1-3,.11,6.57,6.57,0,0,0,6.13,4.56,13.17,13.17,0,0,1-8.15,2.82A13.36,13.36,0,0,1,0,23.05,18.59,18.59,0,0,0,10.06,26"/>
+  </g>
+</symbol></svg>
